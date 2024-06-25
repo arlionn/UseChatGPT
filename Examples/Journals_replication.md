@@ -1,5 +1,7 @@
 ---
 Title: Journals Provide Replication Data
+Author: Yujun Lian, ChatGPT 4o
+Date: 2024/6/24 23:07
 ---
 
 > 原始提问过程：[Click](https://chatgpt.com/share/a9185fd3-9fa5-4907-93a7-cc4e91763861)，`2024/6/24 22:48`
