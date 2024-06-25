@@ -1,5 +1,14 @@
+---
+Title: Code Formatting for Stata codes
+Author: Yujun Lian, ChatGPT 4o
+Date: 2024/6/24 23:20
+---
 
+<br>
 
+> 原始提问过程：[Click](https://chatgpt.com/share/146a734f-78f9-4641-b9d6-cdf25db2b006)，`2024/6/24 23:19`
+
+&emsp; 
 
 ## Prompt 1
 
