@@ -1,6 +1,10 @@
 ---
 Title： Tidy Markdown tables
+Author: Yujun Lian, ChatGPT 4o
+Date: 2024/6/24 23:10
 ---
+
+<br>
 
 > 原始对话记录：[click](https://chatgpt.com/share/0c64bafa-5ab1-454d-b5fc-3143884d972a)，`2024/6/24 22:38`
 
