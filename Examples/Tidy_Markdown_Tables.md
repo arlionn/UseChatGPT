@@ -1,7 +1,7 @@
 ---
-Title： Tidy Markdown tables
+Title： Tidy Markdown Tables
 Author: Yujun Lian, ChatGPT 4o
-Date: 2024/6/24 23:10
+Date: 2024/6/24
 ---
 
 <br>
