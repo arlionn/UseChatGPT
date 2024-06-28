@@ -70,13 +70,13 @@ Date: 2024/6/27 22:15
 > - Wang, Z., Yang, Z., Zhang, Y., 2012. Relationships between energy technology patents and CO2 emissions in China: an empirical study. J. Renew. Sustain. Energy 4, 742–762
 
 ### Response 3:
--Chen, R. C. Y., Lee, C.-H., **2016**. The influence of CSR on firm value: an application of panel smooth transition regression on Taiwan. Appl. Econ. 49, 3422–3434. 10.1080/00036846.2016.1262516
--Fernández-Méndez, C., Pathan, S., **2023**. The valuation impact of gender quotas in the boardroom: evidence from the European markets. Finance Res. Lett. 54, 103699. 10.1016/j.frl.2023.103699
--Fok, D., van Dijk, D., Franses, P. H., **2005**. A multi-level panel STAR model for US manufacturing sectors. J. Appl. Econometrics 20, 811-827. 10.1002/jae.799
--Gonzalez, A., Teräsvirta, T., van Dijk, D., Yang, Y., **2017**. Panel smooth transition regression models. Working Paper. [-PDF-](https://econ.au.dk/fileadmin/site_files/filer_oekonomi/Working_Papers/CREATES/2017/rp17_36.pdf), [-PDF2-](https://pure.au.dk/ws/files/117610872/rp17_36.pdf)
--González, A., Teräsvirta, T., van Dijk, D., **2005**. Panel smooth transition regression models. Research Paper, Stockholm School of Economics. 10.2139/ssrn.667321
--Li, J., Luo, Y., **2020**. Environmental regulation, green innovation, and enterprise competitiveness: a panel smooth transition regression model. J. Cleaner Prod. 259, 120763. 10.1016/j.jclepro.2020.120763
--Zhang, M., Zhang, S., Lee, C.-C., Zhou, D., **2021**. Effects of trade openness on renewable energy consumption in OECD countries: new insights from panel smooth transition regression modelling. Energy Econ. 104, 105649. 10.1016/j.eneco.2021.105649
+- Chen, R. C. Y., Lee, C.-H., **2016**. The influence of CSR on firm value: an application of panel smooth transition regression on Taiwan. Appl. Econ. 49, 3422–3434. 10.1080/00036846.2016.1262516
+- Fernández-Méndez, C., Pathan, S., **2023**. The valuation impact of gender quotas in the boardroom: evidence from the European markets. Finance Res. Lett. 54, 103699. 10.1016/j.frl.2023.103699
+- Fok, D., van Dijk, D., Franses, P. H., **2005**. A multi-level panel STAR model for US manufacturing sectors. J. Appl. Econometrics 20, 811-827. 10.1002/jae.799
+- Gonzalez, A., Teräsvirta, T., van Dijk, D., Yang, Y., **2017**. Panel smooth transition regression models. Working Paper. [-PDF-](https://econ.au.dk/fileadmin/site_files/filer_oekonomi/Working_Papers/CREATES/2017/rp17_36.pdf), [-PDF2-](https://pure.au.dk/ws/files/117610872/rp17_36.pdf)
+- González, A., Teräsvirta, T., van Dijk, D., **2005**. Panel smooth transition regression models. Research Paper, Stockholm School of Economics. 10.2139/ssrn.667321
+- Li, J., Luo, Y., **2020**. Environmental regulation, green innovation, and enterprise competitiveness: a panel smooth transition regression model. J. Cleaner Prod. 259, 120763. 10.1016/j.jclepro.2020.120763
+- Zhang, M., Zhang, S., Lee, C.-C., Zhou, D., **2021**. Effects of trade openness on renewable energy consumption in OECD countries: new insights from panel smooth transition regression modelling. Energy Econ. 104, 105649. 10.1016/j.eneco.2021.105649
 
 &emsp;
 
@@ -92,9 +92,9 @@ Date: 2024/6/27 22:15
 ### Response 4:
 
 - Chen, R. C. Y., Lee, C.-H., **2016**. The influence of CSR on firm value: an application of panel smooth transition regression on Taiwan. Appl. Econ. 49, 3422–3434. [10.1080/00036846.2016.1262516](https://doi.org/10.1080/00036846.2016.1262516)
--Fernández-Méndez, C., Pathan, S., **2023**. The valuation impact of gender quotas in the boardroom: evidence from the European markets. Finance Res. Lett. 54, 103699. [10.1016/j.frl.2023.103699](https://doi.org/10.1016/j.frl.2023.103699)
--Fok, D., van Dijk, D., Franses, P. H., **2005**. A multi-level panel STAR model for US manufacturing sectors. J. Appl. Econometrics 20, 811-827. [10.1002/jae.799](https://doi.org/10.1002/jae.799)
--Gonzalez, A., Teräsvirta, T., van Dijk, D., Yang, Y., **2017**. Panel smooth transition regression models. Working Paper. [PDF](https://econ.au.dk/fileadmin/site_files/filer_oekonomi/Working_Papers/CREATES/2017/rp17_36.pdf), [PDF2](https://pure.au.dk/ws/files/117610872/rp17_36.pdf)
--González, A., Teräsvirta, T., van Dijk, D., **2005**. Panel smooth transition regression models. Research Paper, Stockholm School of Economics. [10.2139/ssrn.667321](https://doi.org/10.2139/ssrn.667321)
--Li, J., Luo, Y., **2020**. Environmental regulation, green innovation, and enterprise competitiveness: a panel smooth transition regression model. J. Cleaner Prod. 259, 120763. [10.1016/j.jclepro.2020.120763](https://doi.org/10.1016/j.jclepro.2020.120763)
--Zhang, M., Zhang, S., Lee, C.-C., Zhou, D., **2021**. Effects of trade openness on renewable energy consumption in OECD countries: new insights from panel smooth transition regression modelling. Energy Econ. 104, 105649. [10.1016/j.eneco.2021.105649](https://doi.org/10.1016/j.eneco.2021.105649)
+- Fernández-Méndez, C., Pathan, S., **2023**. The valuation impact of gender quotas in the boardroom: evidence from the European markets. Finance Res. Lett. 54, 103699. [10.1016/j.frl.2023.103699](https://doi.org/10.1016/j.frl.2023.103699)
+- Fok, D., van Dijk, D., Franses, P. H., **2005**. A multi-level panel STAR model for US manufacturing sectors. J. Appl. Econometrics 20, 811-827. [10.1002/jae.799](https://doi.org/10.1002/jae.799)
+- Gonzalez, A., Teräsvirta, T., van Dijk, D., Yang, Y., **2017**. Panel smooth transition regression models. Working Paper. [PDF](https://econ.au.dk/fileadmin/site_files/filer_oekonomi/Working_Papers/CREATES/2017/rp17_36.pdf), [PDF2](https://pure.au.dk/ws/files/117610872/rp17_36.pdf)
+- González, A., Teräsvirta, T., van Dijk, D., **2005**. Panel smooth transition regression models. Research Paper, Stockholm School of Economics. [10.2139/ssrn.667321](https://doi.org/10.2139/ssrn.667321)
+- Li, J., Luo, Y., **2020**. Environmental regulation, green innovation, and enterprise competitiveness: a panel smooth transition regression model. J. Cleaner Prod. 259, 120763. [10.1016/j.jclepro.2020.120763](https://doi.org/10.1016/j.jclepro.2020.120763)
+- Zhang, M., Zhang, S., Lee, C.-C., Zhou, D., **2021**. Effects of trade openness on renewable energy consumption in OECD countries: new insights from panel smooth transition regression modelling. Energy Econ. 104, 105649. [10.1016/j.eneco.2021.105649](https://doi.org/10.1016/j.eneco.2021.105649)
