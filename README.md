@@ -9,7 +9,7 @@ Stata, Python will be used.
   - Add notes and comments to Stata codes
   - Explain Stata codes
 - Developer
-  - **abc.ado** &rarr;auto write&rarr;**abc.sthlp**
+  - **abc.ado** &rarr; auto generate &rarr;**abc.sthlp**
   - **.sthlp** &rarr; **.md**
   - Write a Blog for user defined command
   - Code translation: **abc.py** or **abc.r** &rarr; **abc.do** 
