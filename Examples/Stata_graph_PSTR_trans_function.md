@@ -27,7 +27,7 @@ $$
 
 转换函数的表达式如下：
 $$
-g(q_{it};\gamma,c)=\left(1+\exp\left(-\gamma\prod_{j=1}^m(q_{it}-c_j)\right)\right)^{-1}\quad(2)
+g(q_{it};\gamma,c) = \frac{1}{1+\exp\left[-\gamma(q_{it}-c)\right]}
 $$
 
 # 问题：
