@@ -8,6 +8,7 @@ Stata, Python will be used.
 - Daily usage
   - Add notes and comments to Stata codes
   - Explain Stata codes
+  - Codes formatting
 - Developer
   - **abc.ado** &rarr; auto generate &rarr;**abc.sthlp**
   - **.sthlp** &rarr; **.md**
