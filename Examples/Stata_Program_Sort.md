@@ -1,5 +1,14 @@
 
+## 完整介绍
 - 连玉君, 2024, [Stata+ChatGPT4o：AI代码助手好酸爽！](https://www.lianxh.cn/details/1393.html), 连享会 No.1393.
+
+
+&emsp;
+
+&emsp;
+
+
+--- - --
 
 
 ## 6. 附录：提问脚本
