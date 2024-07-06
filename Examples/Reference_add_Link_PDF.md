@@ -56,6 +56,12 @@ Blanchard, O. (2019). Public Debt and Low Interest Rates. American Economic Revi
 
 #### 渲染后的效果
 
+> Note: 要稍微检查一下 ChatGPT 输出的结果，有时候它给出的链接是错误的。
+
+
+--- - --
+
+
 以下是整理后的参考文献：
 
 - Chassang, S., Padró i Miquel, G., Snowberg, E., & Vicente, P. (2012). Selective Trials: A Principal-Agent Approach to Randomized Controlled Experiments. American Economic Review, 102(4), 1279-1309. [Link](https://doi.org/10.1257/aer.102.4.1279), [PDF](http://sci-hub.ren/10.1257/aer.102.4.1279), [Google](<https://scholar.google.com/scholar?q=Selective Trials: A Principal-Agent Approach to Randomized Controlled Experiments>).
