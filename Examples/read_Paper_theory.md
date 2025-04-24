@@ -1,5 +1,13 @@
 
+> **作者：** 连玉君 (中山大学)    
+> **邮箱：** <arlionn@163.com> 
 
+&emsp;
+
+- **Title**: 如何借助 AI 工具来伴读一篇理论类的论文？
+- **Keywords**: 理论模型, AI 工具, ChatGPT, 寇宗来, 调整成本函数
+
+&emsp; 
 
 今天，我们来分享一下，我是如何借助 AI 工具来伴读一篇理论类的论文的。今天读的论文不算太难：
 
@@ -35,7 +43,9 @@ AI 工具在理解理论模型时有以下几方面的优势：
 
 
 
-### 1. 模型梳理能力
+&emsp;
+
+## 1. 模型梳理能力
 
 >❓ **Prompt 1**: 帮我写出这篇论文的理论模型 
 
@@ -43,9 +53,11 @@ AI 工具在理解理论模型时有以下几方面的优势：
 
 ChatGPT 会自动识别 PDF 中的文本内容，并提取出论文的理论模型，写成了一份 2000 字左右的简化版的理论模型。他的总结能力很强，把模型研究假设，主要方程的设定思路，模型的经济学直觉都提炼出来了。
 
-完整回复参见：[ChatGPT-Prompt1-Answer]()
+完整回复参见：[ChatGPT-Prompt1-Answer](https://github.com/arlionn/UseChatGPT/blob/main/Examples/read_Paper_theory_outline.md)
 
-### 2. 通俗解释复杂设定
+&emsp;
+
+## 2. 通俗解释复杂设定
 
 >❓ **Prompt 2**: 补充一些「大白话」版本的解释，让学生能够理解复杂设定背后的经济学直觉。
 
@@ -55,7 +67,9 @@ ChatGPT 会自动识别 PDF 中的文本内容，并提取出论文的理论模�
 
    ![20250424202504](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/20250424202504.png)
 
-### 3. 参数含义和函数可视化
+&emsp;
+
+## 3. 参数含义和函数可视化
 
 >❓ **Prompt 3**：解释  "且 γ>1  表示研发投入难度高于广告投入" 的含义，以及该表述的依据和合理性。还有没有其它更合理的设定方式？
 
@@ -88,6 +102,8 @@ ChatGPT 会自动识别 PDF 中的文本内容，并提取出论文的理论模�
 >  这样可以让广告成本在高市场占有率下的边际增长加速，从而与研发成本更好地对比。
 
 函数可视化部分参见本文：**5. 附录：ChatGPT 生成的代码和图形**。
+
+&emsp;
 
 ## 4. 模型扩展与创新辅助
 
@@ -179,6 +195,12 @@ ChatGPT 会自动识别 PDF 中的文本内容，并提取出论文的理论模�
 
 >❓ **Prompt 4.C**：我选择「模型 B：乘性缩放项」。请以此为基础，帮我重新表述寇宗来文中的模型，并进行后续推导。 
 
+ChatGPT 会把模型的设定、推导过程、经济学直觉等都重新梳理一遍。参见：
+
+[ChatGPT 更新后的模型设定和解读](https://github.com/arlionn/UseChatGPT/blob/main/Examples/read_Paper_theory_new_model.md)
+
+&emsp;
+
 &emsp;
 
 ## 5. 附录：ChatGPT 生成的代码和图形
@@ -222,6 +244,8 @@ graph export "RD_adjust_costs_01.png", replace width(600)
 
 ### A.2 Python 代码
 
+> [read_Paper_theory_python_codes.ipynb](https://github.com/arlionn/UseChatGPT/blob/main/Examples/read_Paper_theory_python_codes.ipynb)
+
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
@@ -260,3 +284,30 @@ plt.show()
 
 ![20250424213227](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/20250424213227.png)
 
+
+&emsp;
+
+## 6. 相关推文
+
+> Note：产生如下推文列表的 Stata 命令为：   
+> &emsp; `lianxh ChatGPT deepseek AI, ex(avai AIC sai AIT Plain eba xtnum) md0 nocat`  
+> 安装最新版 `lianxh` 命令：    
+> &emsp; `ssc install lianxh, replace` 
+
+- [ChatGPT](https://www.lianxh.cn/search.html?s=ChatGPT), 2024, [知乎热议：导师都是段子手](https://www.lianxh.cn/details/1433.html), 连享会 No.1433.
+- [于凡](https://www.lianxh.cn/search.html?s=于凡), 2024, [AI可以编写Stata代码吗？](https://www.lianxh.cn/details/1348.html), 连享会 No.1348.
+- [余坚](https://www.lianxh.cn/search.html?s=余坚), 2023, [Stata：ChatGPT你能帮我干点啥？](https://www.lianxh.cn/details/1164.html), 连享会 No.1164.
+- [吴小齐](https://www.lianxh.cn/search.html?s=吴小齐), 2024, [强大的Kimi：中国版ChatGPT平替](https://www.lianxh.cn/details/1423.html), 连享会 No.1423.
+- [罗兰若](https://www.lianxh.cn/search.html?s=罗兰若), 2022, [Stata论文复现：高维线性回归的变量筛选-baing-ocmt](https://www.lianxh.cn/details/866.html), 连享会 No.866.
+- [罗银燕](https://www.lianxh.cn/search.html?s=罗银燕), 2023, [如何在 R 中安装并使用 chatgpt 包？](https://www.lianxh.cn/details/1171.html), 连享会 No.1171.
+- [连享会](https://www.lianxh.cn/search.html?s=连享会), 2024, [AI编程助手大盘点：不止ChatGPT和Copilot](https://www.lianxh.cn/details/1394.html), 连享会 No.1394.
+- [连小白](https://www.lianxh.cn/search.html?s=连小白), 2025, [AI助手系列：napkin.ai-文字转换为图片和表格](https://www.lianxh.cn/details/1540.html), 连享会 No.1540.
+- [连小白](https://www.lianxh.cn/search.html?s=连小白), 2025, [AI工具系列：英文学术论文语法检测与纠正](https://www.lianxh.cn/details/1562.html), 连享会 No.1562.
+- [连小白](https://www.lianxh.cn/search.html?s=连小白), 2025, [DeepSeek对话可以分享了！](https://www.lianxh.cn/details/1566.html), 连享会 No.1566.
+- [连小白](https://www.lianxh.cn/search.html?s=连小白), 2025, [No Chinglish：学术写作中的中式英语陷阱](https://www.lianxh.cn/details/1563.html), 连享会 No.1563.
+- [连玉君](https://www.lianxh.cn/search.html?s=连玉君), 2024, [VScode：实用 Markdown 插件推荐](https://www.lianxh.cn/details/1390.html), 连享会 No.1390.
+- [连玉君](https://www.lianxh.cn/search.html?s=连玉君), 2024, [从基础到 AI 助手：Python 用户最爱的 VScode 插件清单](https://www.lianxh.cn/details/1489.html), 连享会 No.1489.
+- [连玉君](https://www.lianxh.cn/search.html?s=连玉君), 2024, [借助ChatGPT4o学习排序算法：AI代码助手好酸爽！](https://www.lianxh.cn/details/1393.html), 连享会 No.1393.
+- [连玉君](https://www.lianxh.cn/search.html?s=连玉君), 2025, [老连买电脑：ChatGPT，DeepSeek，豆包来帮忙](https://www.lianxh.cn/details/1561.html), 连享会 No.1561.
+- [连玉君](https://www.lianxh.cn/search.html?s=连玉君), 2023, [连玉君：我与ChatGPT聊了一个月](https://www.lianxh.cn/details/899.html), 连享会 No.899.
+- [颜国强](https://www.lianxh.cn/search.html?s=颜国强), 2024, [ChatGPT争议：学术研究的加速器or信任危机的催化剂？](https://www.lianxh.cn/details/1421.html), 连享会 No.1421.
