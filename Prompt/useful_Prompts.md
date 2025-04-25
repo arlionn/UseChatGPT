@@ -7,8 +7,91 @@
 你能不能帮我写一个比较好的提示词？
 ```
 
+## 给答案自动加标签
+
+```raw
+-- round 1 --
+注意：每次生成答案时，都在首行按如下格式添加 label，以便我追问时定位。
+'mylabel-01'
+'mylabel-02'
+
+-- round 2 --
+按如下要求修改 'mylabel01' 的内容：
+1. xxx
+2. xxx
+
+-- round 3 -- Note: 我试了几次，都不成功
+帮我把 'mylabel-01'，'mylabel-03'，'mylabel-08' 的内容整合在一起，形成一篇完整的文档。
+
+输出为 .md 格式。
+```
 
 
+## 论文推介
+- [推介1：Du-2023-EE](https://chatgpt.com/share/680b7bbb-f720-8005-a9a6-bf2793d01f8d)
+- [推介2：Seo-2019-xthenreg-SJ](https://chatgpt.com/share/680bb871-42a8-8005-a34c-4de00d342bf7)
+
+```raw
+---Round 1---
+[以附件形式上传论文]
+
+写一篇论文推介，介绍附件中的论文。先列个提纲给我。
+
+Note: 你可以对 AI 提供的提纲进行修改。
+
+---Round 2---
+分批次输出吧
+1. 计量模型的证明和详细推导过程可以省略，但要补充简单直白的语言来解释模型和参数的经济含义
+2. 把数学符号和公司都采用 Latex 格式来写，以保证输出美观
+3. 行内公式采用 $f=x$ 格式，单行公式采用 $$f=x$$ 格式
+4. 所有括号都用半角模式，中英文混排注意加空格
+5. 不要添加如何表情符号
+6. 按 '## 1. xxx'，'### 1.1 xxx'，'#### xxx'(不编号) 的等格式来分 Section, Subsection, Subsubsection
+7. 参考文献格式：
+   - xxx, xxx, xxx. (**2023**). xxx. *Journal of xxx*, 1(1), 1-10. [Link](https://doi.org/{DOI}), [-PDF-](http://sci-hub.ren/{DOI}), [Google](<https://scholar.google.com/scholar?q={Title of the Paper}>).
+8. 注意：每次生成答案时，都在首行按如下格式添加 label，以便我追问时定位：'mylabel-01'，'mylabel-02'，……
+
+-- Round 3---
+
+请帮我把 mylabel-01 至 mylabel-06 的内容整合为一个完整的 .md 文档。不要做任何删减和格式调整。 
+
+```
+
+
+
+```raw
+写一篇笔记，介绍这篇论文。
+1. 简介。文章摘要翻译，主要结论等
+2. 研究方法。重点介绍文中使用的 [xxx model] 的设定；关键变量的界定和含义等
+3. 实证结果分析 (主要分析 [xxx] 相关的内容即可，其它的内容简要介绍即可)
+
+---
+提炼 Section 2 的内容，重点介绍 2.3. Hypotheses
+1. 不要添加任何表情符号
+2. 中英文混排加空格
+3. 语言朴实，逻辑清晰
+
+--- 
+完整介绍论文的 [Section #. Methodology]
+```
+
+## 参考文献格式
+
+```raw
+用法：提供一些文献的基本信息给 AI，然后写如下提示词
+
+-- Format 1 --
+按如下格式输出参考文献：
+- xxx, xxx, xxx. (**2023**). xxx. *Journal of xxx*, 1(1), 1-10. [Link](https://doi.org/{DOI}), [-PDF-](http://sci-hub.ren/{DOI}), [Google](<https://scholar.google.com/scholar?q={Title of the Paper}>).
+
+-- Format 2 --
+按 'MLA' 格式输出参考文献，参考：
+- Allcott, Hunt, Matthew Gentzkow, and Lena Song. "Digital addiction." American Economic Review 112.7 (2022): 2424-2463. [Link](https://doi.org/{DOI}), [-PDF-](http://sci-hub.ren/{DOI}), [Google](<https://scholar.google.com/scholar?q={Title of the Paper}>).
+
+-- Format 3 --
+按 'APA' 格式输出参考文献，参考：
+- Allcott, H., Gentzkow, M., & Song, L. (2022). Digital addiction. American Economic Review, 112(7), 2424-2463. [Link](https://doi.org/{DOI}), [-PDF-](http://sci-hub.ren/{DOI}), [Google](<https://scholar.google.com/scholar?q={Title of the Paper}>).
+```
 
 ## 格式调整
 
